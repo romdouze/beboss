@@ -17,7 +17,7 @@ public class XMLHandler
     private static final String XML_TRAVAUX_EN_COURS_FINAUX = "travaux-en-cours-finaux";
     private static final String XML_CHARGES_FIXES = "charges-fixes";
     private static final String XML_CHARGES_VARIABLES = "charges-variables";
-    private static final String XML_STOCK_FINAL = "stock-final";
+    private static final String XML_STOCK = "stock";
     private static final String XML_ACHATS_CONSOMMES = "achats-consommes";
     private static final String XML_ACHATS_NON_STOCKABLES = "achats-non-stockables";
     private static final String XML_SERVICES_EXTERIEURS = "services-exterieurs";
